@@ -1,3 +1,3 @@
 # BerkleyAI
 
-BerkleyAI answers
+BerkleyAI exercices answers.
