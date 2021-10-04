@@ -1,3 +1,3 @@
 # BerkleyAI
 
-BerkleyAI exercices answers.
+Answers to BerkleyAI challenges.
